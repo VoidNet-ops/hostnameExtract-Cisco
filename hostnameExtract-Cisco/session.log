@@ -1,0 +1,55 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2021.09.27 14:51:08 =~=~=~=~=~=~=~=~=~=~=~=
+Test_AAA101#
+Test_AAA101#
+Test_AAA101#sh log
+Test_AAA101#sh run
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed dapibus quam. In hac habitasse platea dictumst.
+Fusce rutrum odio lobortis, scelerisque enim sed, ornare nibh. Integer at malesuada velit.
+Proin risus ligula, congue id scelerisque a, consectetur euismod neque.
+Etiam quis libero vel libero ornare placerat.
+Mauris tincidunt diam at ligula accumsan, ut interdum mauris bibendum. Praesent fermentum magna non ligula sodales molestie.
+Cras feugiat sem eget lacus mattis feugiat. Duis sed erat a libero tincidunt bibendum.
+Integer volutpat suscipit risus, eu vulputate nisi interdum vitae. Nullam porta imperdiet ante, eu eleifend enim aliquet ac.
+Vestibulum luctus diam eu.
+999999: .Dec 24 08:13:02.687: %LINK-3-UPDOWN: Interface FastEthernet0, changed state to up
+999999: .Dec 24 08:13:02.687: %LINK-3-UPDOWN: Interface FastEthernet0, changed state to down
+Test_AAA101#ssh 000.000.000.000
+C
+Unauthorised use is prohibited.
+
+Password:
+Test_AAA102#sh loggin
+Test_AAA102#
+Test_AAA102#
+Test_AAA102#sh log
+Test_AAA102#sh run
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed dapibus quam. In hac habitasse platea dictumst.
+Fusce rutrum odio lobortis, scelerisque enim sed, ornare nibh. Integer at malesuada velit.
+Proin risus ligula, congue id scelerisque a, consectetur euismod neque.
+Etiam quis libero vel libero ornare placerat.
+Mauris tincidunt diam at ligula accumsan, ut interdum mauris bibendum. Praesent fermentum magna non ligula sodales molestie.
+Cras feugiat sem eget lacus mattis feugiat. Duis sed erat a libero tincidunt bibendum.
+Integer volutpat suscipit risus, eu vulputate nisi interdum vitae. Nullam porta imperdiet ante, eu eleifend enim aliquet ac.
+Vestibulum luctus diam eu.
+999999: .Dec 24 08:13:02.687: %LINK-3-UPDOWN: Interface FastEthernet0, changed state to up
+999999: .Dec 24 08:13:02.687: %LINK-3-UPDOWN: Interface FastEthernet0, changed state to down
+Test_AAA102#ssh 000.000.000.000
+C
+Unauthorised use is prohibited.
+
+Password:
+Test_AAA103#
+Test_AAA103#
+Test_AAA103#sh log
+Test_AAA103#sh run
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed dapibus quam. In hac habitasse platea dictumst.
+Fusce rutrum odio lobortis, scelerisque enim sed, ornare nibh. Integer at malesuada velit.
+Proin risus ligula, congue id scelerisque a, consectetur euismod neque.
+Etiam quis libero vel libero ornare placerat.
+Mauris tincidunt diam at ligula accumsan, ut interdum mauris bibendum. Praesent fermentum magna non ligula sodales molestie.
+Cras feugiat sem eget lacus mattis feugiat. Duis sed erat a libero tincidunt bibendum.
+Integer volutpat suscipit risus, eu vulputate nisi interdum vitae. Nullam porta imperdiet ante, eu eleifend enim aliquet ac.
+Vestibulum luctus diam eu.
+999999: .Dec 24 08:13:02.687: %LINK-3-UPDOWN: Interface FastEthernet0, changed state to up
+999999: .Dec 24 08:13:02.687: %LINK-3-UPDOWN: Interface FastEthernet0, changed state to down
+[Connection to 000.000.000.000 closed by foreign host]
