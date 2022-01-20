@@ -19,7 +19,7 @@
 .NOTES
   Version:        3.03
   Author:         Dennis Ozmert
-  GitHub:         https://github.com/dozmert1
+  GitHub:         https://github.com/VoidNet-ops
   Creation Date:  28/09/2021 @ 9:00am
   Last Updated:   18/11/2021
   Purpose/Change: Device discovery
